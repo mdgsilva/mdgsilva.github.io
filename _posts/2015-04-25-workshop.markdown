@@ -1,6 +1,6 @@
 ---
 title:  "Sobre mim"
-subtitle: "Esse sou eu na flor da idade"
+subtitle: "Vamo lá"
 author: "Michael"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
