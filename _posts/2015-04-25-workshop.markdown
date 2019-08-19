@@ -1,5 +1,5 @@
 ---
-title:  "Sobre mims"
+title:  "Sobre mim"
 subtitle: "Vamo lá"
 author: "Michael"
 avatar: "img/authors/wferr.png"
