@@ -1,6 +1,6 @@
 ---
 title:  "Meus projetos pessoais"
-subtitle: ""
+subtitle: "Espaço reservado para projetos diversos"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
