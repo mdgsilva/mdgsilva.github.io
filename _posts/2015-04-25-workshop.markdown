@@ -7,12 +7,15 @@ image: "img/f.jpg"
 date:   2019-08-15 17:13:50
 ---
 
-### Algumas breves informações...
+ Algumas breves informações...
 ###
-###Tudo começou em 26/04/00. Nessa data minha querida mãe me trouxe ao mundo.
-###Listo aqui algumas pequenas informações sobre minha pessoa:
-###Embalador durante as férias;
-###Nas horas vagas curto demais um filminho com uma pipoquinha; se tiver uma boa companhia é melhor ainda.
+Tudo começou em 26/04/00. Nessa data minha querida mãe me trouxe ao mundo.
+###
+Listo aqui algumas pequenas informações sobre minha pessoa:
+###
+Embalador durante as férias;
+###
+Nas horas vagas curto demais um filminho com uma pipoquinha; se tiver uma boa companhia é melhor ainda.
 
 
 
