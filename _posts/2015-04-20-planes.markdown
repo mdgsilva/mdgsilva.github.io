@@ -1,7 +1,7 @@
 ---
 title:  "Família!"
 subtitle: ""Família, família; papai, mamãe, vovÔ e titia...""
-author: "Wferr"
+author: "Por Michael Douglas"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12

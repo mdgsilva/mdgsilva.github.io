@@ -1,7 +1,7 @@
 ---
 title:  "Sobre mim"
 subtitle: "Vamo lá"
-author: "Michael"
+author: "Por Michael Douglas"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2019-08-15 17:13:50

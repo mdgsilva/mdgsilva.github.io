@@ -1,7 +1,7 @@
 ---
 title:  "Meus projetos pessoais"
 subtitle: "Espaço reservado para projetos diversos"
-author: "Wferr"
+author: "Por Michael Douglas"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
